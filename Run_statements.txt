@@ -1,0 +1,7 @@
+javac -cp ".;mysql-connector-j-9.4.0.jar" TaskManager.java
+java -cp ".;mysql-connector-j-9.4.0.jar" TaskManager   
+
+To view Database in VSCode:
+1) Install SQLTools
+2) Press F1
+3) SQLTools Connection: Show Table Records
